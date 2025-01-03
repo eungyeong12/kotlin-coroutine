@@ -1,4 +1,4 @@
-package sample.section3.code1
+package sample.section3.code2
 
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.launch
